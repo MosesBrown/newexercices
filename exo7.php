@@ -8,5 +8,5 @@ if ($chiffre > $nombre) {
 } elseif ($nombre > $chiffre) {
     echo "Le plus grand nombre est : " . $nombre;
 } else {
-    echo "Les deux nombres sont égaux.";
+    echo "Les deux nombres sont égaux voila .";
 }
